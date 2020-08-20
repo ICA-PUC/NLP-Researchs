@@ -13,7 +13,7 @@ Document similarity measures are basis the several downstream applications in th
 - Generative Pre-Training-2 (GPT-2) 
 - Universal Language Model Fine-tuning (ULMFiT) 
 - XLNet
-- Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context. 
+- Reformer
 
 Overcoming BERT's 512 token limit:
 
@@ -22,8 +22,8 @@ Overcoming BERT's 512 token limit:
   - [Blockwise Self-Attention for Long Document Understanding]
 - [Easy-to-use interface to fine-tuned BERT models for computing semantic similarity]
 - Ye, Z. et al. 2019. BP-Transformer: Modelling Long-Range Context via Binary Partitioning. (2019). 
+- Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context. 
 - Longformer: The Long-Document Transformer 
-- Reformer
 
 ### Siamese Networks
 
@@ -34,3 +34,4 @@ Overcoming BERT's 512 token limit:
 ### Text matching
 
 - [Simple and Effective Text Matching with Richer Alignment Features]
+- [Enhanced Text Matching Based on Semantic Transformation]
